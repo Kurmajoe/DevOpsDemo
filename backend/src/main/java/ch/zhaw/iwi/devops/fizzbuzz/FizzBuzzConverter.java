@@ -1,7 +1,7 @@
 package ch.zhaw.iwi.devops.fizzbuzz;
 
 public class FizzBuzzConverter {
-    //test 3
+    //test 4
 
     public String convert(int i) {
         if (i % 3 == 0 && i % 7 == 0) {
